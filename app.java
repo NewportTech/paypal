@@ -9,3 +9,7 @@ This is great
 developing java apps
 NodeJS applications
 bug removed from app
+great
+This app is excellent
+This app is excellent for all users
+
